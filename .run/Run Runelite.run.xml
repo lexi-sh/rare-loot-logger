@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Runelite" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="sh.lexi.rarelootlogger.RareLootLoggerPluginTest" />
+    <module name="rare-loot-logger.test" />
+    <option name="VM_PARAMETERS" value="-ea" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="sh.lexi.rarelootlogger.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
